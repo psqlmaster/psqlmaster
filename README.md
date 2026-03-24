@@ -1,4 +1,4 @@
-<code>🐘 Principal Database Architect (Greenplum, PostgreSQL) | Performance Tuning, Internals & High Load </code>  
+<code>🐘 Database Architect (Greenplum, PostgreSQL) | Performance Tuning, Internals & High Load </code>  
 
 <code>🔹**telegram:** [@sqlmaster](https://telegram.me/sqlmaster) 📫 [globalalek@gmail.com](mailto:globalalek@gmail.com)</code>  
 
